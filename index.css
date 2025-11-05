@@ -10,3 +10,7 @@ html, body {
   box-sizing: border-box;
   padding: 0 1.5em;
 }
+
+img {
+  width: 100%
+}
